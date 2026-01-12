@@ -1,0 +1,6 @@
+Transfomer的token是怎么翻译过来的，很神奇
+
+Transfomer的翻译：
+意大利to英语：
+https://www.cnblogs.com/carpell/p/18821064
+https://github.com/fouen6/-transformer-pytorch-/tree/main

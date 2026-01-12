@@ -1,0 +1,24 @@
+大模型学习路线
+
+1. Transformer 【from tensor to tensor】
+1月11日  Transformer 【Translate：from sentence to sentence】
+
+2. CLIP、BLIP
+https://www.bilibili.com/video/BV1pYmDYgEDW/?spm_id_from=333.337.search-card.all.click&vd_source=5db5a404cbf752d7efa595b25e63b4f9
+
+3. Bert
+4. GPT、QwenVL
+5. LLaMa factory训练一个大模型，lora微调
+————————————————————————
+熟悉主流大模型(如Deepseek、Qwen等)的架构与原理;
+熟悉Python、Powerbi、Power apps、Power automate、VBA等工具；
+主流大模型训练框架 Megatron/DeepSpeed
+熟练使用LLMAfactory，langchain
+rag技术
+大模型(VLAorVLM)
+熟悉Transformer、BERT、Diffusion Models（T2I/T2V )基本原理
+有GLM/Llama/Qwen 等模型的使用/训练经验者优先;
+3、有 CPT / SFT / RLHF / DPO 等训练或复现经验，熟悉至少一种完整训练流程 4、有多模态模型（CLIP / BLIP / LLaVA 等）使用或研究经验，理解其模型架构设计与训练方式
+熟悉主流AI大模型特性，掌握 Prompt 工程和轻量化微调等技术，具备多模态输入处理能力。
+再学训练推理系统vLLM，Megatron
+——————————————————————————————
